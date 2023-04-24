@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testing_nbdev"
+  site-url: "https://franfram.github.io/testing_nbdev"
+  description: "repo to learn nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/franfram/testing_nbdev"
